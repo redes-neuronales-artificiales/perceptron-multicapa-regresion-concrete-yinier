@@ -5,6 +5,7 @@ Calificación del laboratorio
 
 import sys
 
+# import soluciones
 
 import preguntas
 
